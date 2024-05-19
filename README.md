@@ -2,10 +2,10 @@
 Projet Machine learning GI4
 
 # Contributing
-ANKRI Mohamed Khalil
-JIDAR Ahmed Amin
-KHARTOUCH Mouad
-KHRIBECH Hamza
+* ANKRI Mohamed Khalil
+* JIDAR Ahmed Amin
+* KHARTOUCH Mouad
+* KHRIBECH Hamza
 
 
 # Exploratory Data Analysis (EDA)
